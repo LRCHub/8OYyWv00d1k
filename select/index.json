@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "ひだまりの約束",
+  "base_artist": "シホル(CV:照井春佳)",
+  "createdAt": "2026-03-30T05:12:35.769831Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ひだまりの約束",
+      "artist": "シホル(CV:照井春佳)",
+      "has_synced": false,
+      "path": "select/pl_01_ひだまりの約束_シホル(CV_照井春佳).txt"
+    }
+  ]
+}
